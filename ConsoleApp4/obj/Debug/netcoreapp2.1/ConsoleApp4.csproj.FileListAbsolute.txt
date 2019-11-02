@@ -1,0 +1,11 @@
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.deps.json
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.json
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.dev.json
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.pdb
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\Users\Student.dc-mpt-ru\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb
